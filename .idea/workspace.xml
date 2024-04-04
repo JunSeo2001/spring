@@ -5,32 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96d45240-1005-4d98-bbac-cf7f3dd9c2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/aop/TimeTraceAop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/repository/JdbcTemplateMemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/repository/JpaMemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/repository/SpringDataJpaMemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring/src/test/java/hello/hellospring/service/MemberServiceIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/8.5/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/8.5/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/8.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/8.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/out/production/classes/hello/hellospring/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/out/production/classes/hello/hellospring/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/out/production/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring/out/production/classes/hello/hellospring/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/out/production/classes/hello/hellospring/SpringConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/SpringConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/domain/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/service/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/aop/TimeTraceAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/aop/TimeTraceAop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,45 +87,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Gradle.Build hello-spring.executor": "Run",
-    "Gradle.HelloSpringApplicationTests.executor": "Run",
-    "Gradle.MemberServiceIntegrationTest.executor": "Run",
-    "Gradle.MemberServiceIntegrationTest.join.executor": "Run",
-    "Gradle.MemberServiceIntegrationTest.중복회원예외.executor": "Run",
-    "Gradle.MemberServiceTest.executor": "Run",
-    "Gradle.MemberServiceTest.join.executor": "Run",
-    "Gradle.MemberServiceTest.중복회원예외.executor": "Run",
-    "Gradle.MemoryMemberRepositoryTest.executor": "Run",
-    "Gradle.MemoryMemberRepositoryTest.findAll.executor": "Run",
-    "Gradle.MemoryMemberRepositoryTest.findByName.executor": "Run",
-    "Gradle.MemoryMemberRepositoryTest.save.executor": "Run",
-    "JUnit.MemberServiceIntegrationTest.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.HelloSpringApplication.executor": "Run",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kanu6/OneDrive/바탕 화면/GitHub/GraphicEditor/Graphic",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Gradle.Build hello-spring.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.HelloSpringApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemberServiceIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemberServiceIntegrationTest.join.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemberServiceIntegrationTest.중복회원예외.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemberServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemberServiceTest.join.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemberServiceTest.중복회원예외.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemoryMemberRepositoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemoryMemberRepositoryTest.findAll.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemoryMemberRepositoryTest.findByName.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MemoryMemberRepositoryTest.save.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MemberServiceIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.HelloSpringApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kanu6/OneDrive/바탕 화면/GitHub/GraphicEditor/Graphic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -159,7 +137,7 @@
       <recent name="hello.hellospring.service" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MemberServiceIntegrationTest">
+  <component name="RunManager" selected="Spring Boot.HelloSpringApplication">
     <configuration name="HelloSpringApplicationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -312,6 +290,10 @@
       <workItem from="1711689672562" duration="20000" />
       <workItem from="1711791693313" duration="35000" />
       <workItem from="1712051047697" duration="9667000" />
+      <workItem from="1712064480111" duration="599000" />
+      <workItem from="1712102993929" duration="2633000" />
+      <workItem from="1712115721825" duration="20000" />
+      <workItem from="1712130206536" duration="50000" />
     </task>
     <servers />
   </component>
