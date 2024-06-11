@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="96d45240-1005-4d98-bbac-cf7f3dd9c2d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/out/production/classes/hello/hellospring/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/out/production/classes/hello/hellospring/SpringConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/SpringConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/aop/TimeTraceAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hellospring/aop/TimeTraceAop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,6 +291,9 @@
       <workItem from="1712102993929" duration="2633000" />
       <workItem from="1712115721825" duration="20000" />
       <workItem from="1712130206536" duration="50000" />
+      <workItem from="1712297189860" duration="189000" />
+      <workItem from="1712297384710" duration="37000" />
+      <workItem from="1712818395481" duration="617000" />
     </task>
     <servers />
   </component>
